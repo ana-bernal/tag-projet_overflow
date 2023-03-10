@@ -23,7 +23,7 @@
 | ---|---|---|---|---|
 | Notebook d’exploration | `'preprocessing.ipynb'` | `'BERNAL_Ana_1_notebook_exploration_032023.ipynb'` | oui | Github |
 | tests | `'tests.ipynb'` | `'BERNAL_Ana_2_notebook_test_032023.ipynb'` | oui | Github |
-| notebook train meilleur modèle | `'train-save-model.ipynb'` | `'BERNAL_Ana_2.5_notebook_train_032023.ipynb'` | oui | Github |
+| notebook train meilleur modèle | `'train-save-model.ipynb'` | `'BERNAL_Ana_2.5_notebook_train_032023.ipynb'` | **non** | Github |
 | code | `'app.py'` | `'BERNAL_Ana_3_code_032023.py'` | oui | HuggingFace |
 | point entrée API | `'BERNAL_Ana_4_point_entree_API_032023.txt'` | `'BERNAL_Ana_4_point_entree_API_032023.txt'` | oui | GitHub |
 | presentation | `'BERNAL_Ana_5_presentation_032023.pdf'` | `'BERNAL_Ana_5_presentation_032023.pdf'` | oui | GitHub |
