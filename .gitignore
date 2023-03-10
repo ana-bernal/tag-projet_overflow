@@ -5,4 +5,5 @@
 *.zip
 *.sqlite
 *.csv
+*.npy
 Exemple_Tweets_Feature-extraction_Sentence+Embedding_V1.1.ipynb
