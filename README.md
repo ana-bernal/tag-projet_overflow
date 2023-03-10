@@ -7,7 +7,7 @@
 | Auteur  | Ana Bernal                                                    |
 | Source données | [StackExchange Data Explorer](https://data.stackexchange.com/stackoverflow/query/new) |
 | Mentor | Samir Tanfous | 
-| Nombre total de notebooks  | 4                                                   |
+| Nombre total de notebooks  | 3                                                   |
 
 **Description:** Dans ce projet le but principal est de créer un algorithme de suggestions d'étiquettes pour des questions de programmation. Les données viennent de la plateforme [stack overflow](https://stackoverflow.com/).
 
